@@ -1,2 +1,6 @@
 Hello World!
+<<<<<<< HEAD
 Goodbye Wordl!
+=======
+Super text
+>>>>>>> dev

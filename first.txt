@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-text
-text
-text
-=======
->>>>>>> dev
